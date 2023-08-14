@@ -1,1 +1,5 @@
 # odin-recipes
+# odin-recipes
+This project will be a recipe page.
+It will be a landing page created using HTML. I will have demonstrated how to use HTML to create a page 
+with hyperlinks, images, and page formatting elements such as headers, strong and italicied elements, and more. 
